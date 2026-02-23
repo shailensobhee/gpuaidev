@@ -1,0 +1,85 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Virtual Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+# If you want to share notebooks but not their output (optional):
+# .ipynb_checkpoints
+
+# --- Environment Variables (Security) ---
+.env
+.env.local
+.env.shared
+.env.test
+.env.dev
+.env.prod
+.env.*
+.secrets
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store (Mac)
+Thumbs.db (Windows)
+
+# --- Unit Test / Coverage ---
+htmlcov/
+.tox/
+.nosetests
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# --- Databases & Data ---
+*.db
+*.sqlite3
+*.csv
+*.tsv
+*.log
+
+# --- Custom --- 
+datasets/
+opennutrition-dataset-2025.1.zip
+multi_agent_nutrition-adk-old.ipynb

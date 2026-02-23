@@ -1,0 +1,5 @@
+# Requirements for the Multi-Agent Nutritionist Workshop
+httpx
+google-adk[extensions]==1.25.0
+openfoodfacts==3.4.3
+mlflow==3.6.0
