@@ -10,6 +10,26 @@ Changelog for the AI Developer Hub
 
 AI developer tutorials are available at the :doc:`AI Developer Hub <./index>`.
 
+Version 12.0
+============
+
+Added
+------
+
+*  New tutorials highlight on the landing page.
+*  Tutorial inventory selector.
+*  Knowledge level and author information for the individual tutorials.
+
+Version 11.0
+============
+
+Added
+------
+
+*  New pretraining tutorial:
+
+   * :doc:`SE(3)-Transformer overview <./notebooks/pretrain/se3transform_intro>`
+
 Version 10.0
 ============
 
